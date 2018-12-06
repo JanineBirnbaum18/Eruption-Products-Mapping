@@ -1,4 +1,7 @@
 # Eruption-Products-Mapping
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JanineBirnbaum18/Eruption-Products-Mapping/master)
+
 Use publicly available satellite imagery to map volcanic eruption products
 
 Volcanoes are natural hazards that endanger millions of people around the globe. A fundamental question outstanding in the field of volcanology is the accurate prediction of volcanic eruptions, and specifically the likely distribution of eruption products such as ash, lava flows, pyroclastic debris flows, and lahars. The key to making informed predicition lies in the interpretation of the rock record and observations from historic and modern volcanic eruptions. The goal of this project is to use numerical analyses to map eruption products from recent eruptions using satellite imagery which can help us identify processes that control the distribution of eruption products.
