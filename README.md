@@ -1,6 +1,6 @@
 # Eruption-Products-Mapping
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JanineBirnbaum18/Eruption-Products-Mapping/master)
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/JanineBirnbaum18/Eruption-Products-Mapping/master)
 
 Use publicly available satellite imagery to map volcanic eruption products
 
